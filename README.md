@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shantanuSakpal
 - 👀 I’m interested in web develpment and competitive coding.
-- 🌱 I’m currently learning CSS and doing cp on CodeChef.
+- 🌱 I’m currently learning CSS and doing cp on CodeChef and codeforces.
 - 💞️ I’m looking to collaborate on any web development project.
 - 📫 you can reach me by emailing me at shantanuesakpal1420@gmail.com
 
