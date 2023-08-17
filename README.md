@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shantanuSakpal
-- 👨‍🎓 I am a Second year engg. student at D. J. Sanghvi College of Engg. 
+- 👋 Hi, I’m Shantanu,
+- 👨‍🎓 I am a Third year engg. student at D. J. Sanghvi College of Engg. 
 - 👀 I’m interested in web develpment and competitive coding.
 - 🌱 I’m currently active in WEB dev and making interesting projects.
 - 👨‍💻 I am a 3 star coder on CodeChef(1693 highest) 
